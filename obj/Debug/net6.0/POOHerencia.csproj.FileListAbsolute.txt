@@ -1,0 +1,5 @@
+C:\Users\Luis Fernando\source\repos\XZifer\Algoritmos2\POOHerencia\obj\Debug\net6.0\POOHerencia.csproj.AssemblyReference.cache
+C:\Users\Luis Fernando\source\repos\XZifer\Algoritmos2\POOHerencia\obj\Debug\net6.0\POOHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Fernando\source\repos\XZifer\Algoritmos2\POOHerencia\obj\Debug\net6.0\POOHerencia.AssemblyInfoInputs.cache
+C:\Users\Luis Fernando\source\repos\XZifer\Algoritmos2\POOHerencia\obj\Debug\net6.0\POOHerencia.AssemblyInfo.cs
+C:\Users\Luis Fernando\source\repos\XZifer\Algoritmos2\POOHerencia\obj\Debug\net6.0\POOHerencia.csproj.CoreCompileInputs.cache
